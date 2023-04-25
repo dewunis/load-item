@@ -56,6 +56,7 @@ const generateItem = () => {
 
         isLoading = false
         loadingNumber++
+        currentPage++
     })
 }
 
